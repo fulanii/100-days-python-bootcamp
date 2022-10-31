@@ -4,4 +4,5 @@
 
 ## Day 3 - Final Exercise
 ![treasure map](calculator_gif.gif)
+
 https://replit.com/@yassine05/day3finalexercise
