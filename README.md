@@ -3,8 +3,9 @@
 <h1 align="center" <a href="https://www.udemy.com/course/100-days-of-code/">  100 Days of Code - The Complete Python Pro Bootcamp for 2021 </a> </h1>
 
 <p style="color: white;">
-    I recently completed this Python bootcamp, and i'll be using this repo to post all my notes, to access later and share with others learning python.
+    I recently completed this Python bootcamp, this course was realy helpful in taking me from an absolute beginner to professional .I'll be using this repo to post all my notes, to access later and share with others learning python.
 </p>
+
 
 ---
 ## Tools and technologies used/learned
@@ -45,9 +46,20 @@
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
 
+
+---
+## About the course
+> - 64h 2m total length
+> - 101 sections 
+> - 676 lectures 
+> - 64h 2m total length
+> - 100+ projects
+
+
 ---
 ## Certification
 ![certification image](certification.jpeg)
+
 
 ---
 @github.com/fulanii
