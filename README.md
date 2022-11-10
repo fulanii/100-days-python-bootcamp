@@ -7,6 +7,12 @@
 </p>
 
 
+- [Beginner Section](BeginnerSection)
+- [Intermediate Section](IntermediateSection)
+- [Advance Section](BeginnerSection)
+- [Professional Section](BeginnerSection)
+
+
 ---
 ## Tools and technologies used/learned
 - Python 3
