@@ -3,7 +3,7 @@
 <h1 align="center" <a href="https://www.udemy.com/course/100-days-of-code/">  100 Days of Code - The Complete Python Pro Bootcamp for 2021 </a> </h1>
 
 <p style="color: white;">
-    I recently completed this bootcamp to learn python, and i'll be using this repo to post all my notes. I have so much notes and project locally that it will take a while to clean, format and upload here. 
+    I recently completed this Python bootcamp, and i'll be using this repo to post all my notes, to access later and share with others learning python.
 </p>
 
 ---
