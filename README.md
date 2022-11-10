@@ -3,7 +3,7 @@
 <h1 align="center" <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2022</a> </h1>
 
 <p>
-    I recently completed this Python bootcamp, this course was realy helpful in taking me from an absolute beginner to a professional level.Throughout this comprehensive course i completed 100s of small project and dozens of real world prjects, I will also be completing a couple professional job resume/porfolio projects. I'll be using this repo to post all my notes, to access later and share with others learning python.
+    I recently completed this Python bootcamp, this course was really helpful in taking me from an absolute beginner to a professional level. Throughout this comprehensive course i completed 100s of small project and dozens of real world prjects, I will also be completing a couple professional job resume/porfolio projects, lookout for them on my github. This repo will be use to post all my notes, to access later and share with others learning python.
 </p>
 
 
