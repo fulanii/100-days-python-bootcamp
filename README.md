@@ -6,8 +6,8 @@
     I recently completed this bootcamp to learn python, and i'll be using this repo to post all my notes. I have so much notes and project locally that it will take a while to clean, format and upload here. 
 </p>
 
+---
 ## Tools and technologies used/learned
-
 - Python 3
 - Vscode, PyCharm, Jupyter Notebook
 - Python Scripting and Automation
@@ -45,4 +45,9 @@
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
 
+---
+## Certification
 ![certification image](certification.jpeg)
+
+---
+@github.com/fulanii
