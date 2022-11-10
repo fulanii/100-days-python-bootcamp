@@ -1,9 +1,9 @@
 
 
-<h1 align="center" <a href="https://www.udemy.com/course/100-days-of-code/">  100 Days of Code - The Complete Python Pro Bootcamp for 2021 </a> </h1>
+<h1 align="center" <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2022</a> </h1>
 
-<p style="color: white;">
-    I recently completed this Python bootcamp, this course was realy helpful in taking me from an absolute beginner to professional .I'll be using this repo to post all my notes, to access later and share with others learning python.
+<p>
+    I recently completed this Python bootcamp, this course was realy helpful in taking me from an absolute beginner to a professional level. Throughout this comprehensive course i completed 100s of small project and dozens of real world prjects, I will also be completing a couple professional job resume/porfolio projects. I'll be using this repo to post all my notes, to access later and share with others learning python.
 </p>
 
 
@@ -60,6 +60,7 @@
 ## Certification
 ![certification image](certification.jpeg)
 
+This certificate above verifies that Yassine Issoufou successfully completed the course <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2022 </a> on 11/10/2022 as taught by Dr. Angela Yu on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
 
 ---
 @github.com/fulanii
