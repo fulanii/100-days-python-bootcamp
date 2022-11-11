@@ -7,7 +7,7 @@
 </p>
 
 
-- [Beginner Section](BeginnerSection)
+- [Beginner Section](BeginnerSection) (✅ fully uploaded)
 - [Intermediate Section](IntermediateSection)
 - [Advance Section](BeginnerSection)
 - [Professional Section](BeginnerSection)
